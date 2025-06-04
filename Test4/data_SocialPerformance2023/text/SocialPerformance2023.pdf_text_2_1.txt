@@ -1,0 +1,72 @@
+0
+0.100
+0.200
+0.300
+0.400
+2019
+2020
+2021(1)
+2022
+2023
+0.239
+0.279
+0.113
+0.216
+0.389
+0.249
+0.389
+0.231
+0.276
+0.276
+0.137
+Employee
+Contractor
+Cases/1,000,000 Hours Worked
+Employee
+Workplace Contractor
+Direct Transportation 
+Contractor
+Other Transportation 
+Contractor
+0
+20
+40
+60
+80
+100
+2019
+2020
+2021(2)
+2022(1)
+2023
+22
+16
+41
+40
+15
+4
+26
+62
+8
+4
+17
+68
+10
+5
+65
+71
+13
+0
+0
+13
+SPAP Certified Companies
+Percent
+Awareness  
+Advance
+(Level 4 Succeeding) 
+Standard 
+(≤ Level 3 Qualifying)
+Excellence
+(Level 5 Leading) 
+(1) 1st year to incorporate performance from abroad operations
+(2) 1st year of safety performance level corresponding to SCG Safety Framework 2021

@@ -1,0 +1,42 @@
+(Billion Baht)
+(%)
+128.8 
+29.4 
+130.4
+32.6 
+216.0
+40.7
+289.7
+50.9
+270.7
+54.1
+EM-CM-410a.2
+Revenue from Sales of Products and Services designed for 
+use-phase resource efficiency (Billion Baht)(3)
+(%)
+NA
+NA
+0.022
+0.02
+4.870
+2.00
+27.46
+11.6
+71.5
+14.3
+RT-CH-410a.1
+Revenue from Sales of Sustainable Construction Products 
+and Services (Billion Baht)
+(%)
+60.4
+13.8
+59.6
+14.9
+69.4
+13.1
+71.8
+12.6
+59.3
+31.3
+EM-CM-410a.1
+Sustainability Performance Data

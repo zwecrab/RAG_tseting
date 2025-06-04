@@ -1,0 +1,52 @@
+6,143
+7,190
+8,430
+6,685
+6,153
+GRI 201-1
+Tax privilege and others from investment promotion,  
+and research and development (Million Baht)
+1,388
+1,149
+1,829
+1,054
+1,248
+GRI 201-4
+Non-compliance case through SCG Whistleblowing System (Cases)
+30
+38
+30
+51
+55
+GRI 205-3
+Customer Satisfaction - SCG Contact Center (%)
+100
+100
+100
+100
+100
+Average Customer Satisfaction - All business unit (%)
+94
+94
+94
+94
+94
+Contributions to organizations (Million Baht)(1)
+22.2
+13.79
+11.31
+30.9
+27.8 
+Contributions to political activities (Million Baht)(2)
+0
+0
+0
+0
+0
+Suppliers that assessed Environmental, Social and Governance (ESG) 
+Risks (% of procurement spending)
+100
+100
+100
+100
+100

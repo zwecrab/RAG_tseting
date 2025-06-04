@@ -1,0 +1,39 @@
+Performance Data | 2019 | 2020 | 2021 | 2022 | 2023 | GRI Standards | Unnamed: 0 | SASB
+---------------------------------------------------------------------------------------
+Revenue from sales (Billion Baht) | 438.0 | 399.9 | 530.1 | 569.6 | 499.6 | GRI 201-1 |  | 
+Profit for the year (Billion Baht) | 32.0 | 34.1 | 47.2 | 21.4 | 25.9 | GRI 201-1 |  | 
+EBITDA (Billion Baht) | 75.1 | 74.6 | 91.9 | 61.9 | 54.1 | GRI 201-1 |  | 
+Employee compensation comprising salary, wage, welfare, |  |  |  |  |  |  |  | 
+ | 48,139 | 46,796 | 47,921 | 50,732 | 50,190 | GRI 201-1 |  | 
+and regular contributions (Million Baht) |  |  |  |  |  |  |  | 
+Dividend to shareholders (Million Baht) | 16,800 | 16,800 | 22,200 | 9,600 | 7,200 | GRI 201-1 |  | 
+Interest and financial expenses to lender (Million Baht) | 6,442 | 7,082 | 6,758 | 7,523 | 10,297 | GRI 201-1 |  | 
+Taxes to government and local government authorities |  |  |  |  |  |  |  | 
+such as income tax, local maintenance tax, property tax and | 6,143 | 7,190 | 8,430 | 6,685 | 6,153 | GRI 201-1 |  | 
+other specific taxes (Million Baht) |  |  |  |  |  |  |  | 
+Tax privilege and others from investment promotion, |  |  |  |  |  |  |  | 
+ | 1,388 | 1,149 | 1,829 | 1,054 | 1,248 | GRI 201-4 |  | 
+and research and development (Million Baht) |  |  |  |  |  |  |  | 
+Non-compliance case through SCG Whistleblowing System (Cases) | 30 | 38 | 30 | 51 | 55 | GRI 205-3 |  | 
+Customer Satisfaction - SCG Contact Center (%) | 100 | 100 | 100 | 100 | 100 |  |  | 
+Average Customer Satisfaction - All business unit (%) | 94 | 94 | 94 | 94 | 94 |  |  | 
+Contributions to organizations (Million Baht)(1) | 22.2 | 13.79 | 11.31 | 30.9 | 27.8 |  |  | 
+Contributions to political activities (Million Baht)(2) | 0 | 0 | 0 | 0 | 0 |  |  | 
+Suppliers that assessed Environmental, Social and Governance (ESG) |  |  |  |  |  |  |  | 
+ | 100 | 100 | 100 | 100 | 100 |  |  | 
+Risks (% of procurement spending) |  |  |  |  |  |  |  | 
+Procurement Spending by Geography (% of procurement spending) |  |  |  |  |  |  |  | 
+• Domestic | 58 | 57 | 40 | 50 | 55 |  |  | 
+• Regional | 42 | 43 | 60 | 50 | 45 |  |  | 
+Revenue from Sales of High Value Added Products and Services |  |  |  |  |  |  |  | 
+(Billion Baht) | 179.2 | 126.1 | 182.7 | 195.5 | 167.7 |  |  | 
+(%) | 40.9 | 31.5 | 34.5 | 34.3 | 33.6 |  |  | 
+Revenue from Sales of SCG Green Choice Products and Services |  |  |  |  |  |  |  | 
+(Billion Baht) | 128.8 | 130.4 | 216.0 | 289.7 | 270.7 |  |  | EM-CM-410a.2
+(%) | 29.4 | 32.6 | 40.7 | 50.9 | 54.1 |  |  | 
+Revenue from Sales of Products and Services designed for |  |  |  |  |  |  |  | 
+use-phase resource efficiency (Billion Baht)(3) | NA | 0.022 | 4.870 | 27.46 | 71.5 |  |  | RT-CH-410a.1
+(%) | NA | 0.02 | 2.00 | 11.6 | 14.3 |  |  | 
+Revenue from Sales of Sustainable Construction Products |  |  |  |  |  |  |  | 
+and Services (Billion Baht) | 60.4 | 59.6 | 69.4 | 71.8 | 59.3 |  |  | EM-CM-410a.1
+(%) | 13.8 | 14.9 | 13.1 | 12.6 | 31.3 |  |  | 

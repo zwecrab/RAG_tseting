@@ -1,0 +1,45 @@
+75.1
+ 74.6 
+91.9
+61.9
+54.1
+GRI 201-1
+Employee compensation comprising salary, wage, welfare, 
+and regular contributions (Million Baht)
+48,139
+46,796
+47,921
+50,732
+50,190
+GRI 201-1
+Dividend to shareholders (Million Baht)
+16,800
+16,800
+22,200
+9,600
+7,200
+GRI 201-1
+Interest and financial expenses to lender (Million Baht)
+6,442
+7,082
+6,758
+7,523
+10,297
+GRI 201-1
+Taxes to government and local government authorities  
+such as income tax, local maintenance tax, property tax and  
+other specific taxes (Million Baht)
+6,143
+7,190
+8,430
+6,685
+6,153
+GRI 201-1
+Tax privilege and others from investment promotion,  
+and research and development (Million Baht)
+1,388
+1,149
+1,829
+1,054
+1,248
+GRI 201-4

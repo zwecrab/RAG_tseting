@@ -1,0 +1,60 @@
+| 123 |
+PERFORMANCE
+55,578
+Persons
+55,578
+Persons
+Percentage 
+of Employees 
+by Nationality
+Percentage 
+of Employees 
+by Country
+Share in All 
+Management 
+Positions, 
+Including Junior, 
+Middle and 
+Senior Management 
+by Nationality
+Percentage 
+of New 
+Employee Hires 
+by Nationality
+Percentage 
+of Total Employee 
+Turnover Rate 
+by Nationality
+Percentage 
+of Employees 
+by Age
+Over 
+50 years old 
+14.9%
+Cambodian 1.2%
+Filipino 0.4%
+Filipino 2.8%
+Filipino 2.2%
+Cambodia 1.2%
+Myanmar 0.4%
+Cambodian 0.3%
+Cambodian 1.1%
+Myanmar 0.5%
+Myanmar1.2%
+Myanmar 0.4%
+Thai 
+54.8% 
+Thai 
+93.7% 
+Thai 
+41.9% 
+Thai 
+43.6% 
+30-50 years old 
+69.1% 
+Thailand 
+55.2% 
+Others 1.8%
+Others 0.1%
+Others 2.8%
+Cambodian 0.9%

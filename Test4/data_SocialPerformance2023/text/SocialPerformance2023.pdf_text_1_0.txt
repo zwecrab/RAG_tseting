@@ -1,0 +1,68 @@
+| 119 |
+PERFORMANCE
+Performance Data
+2019
+2020
+2021(1)
+2022
+2023
+GRI 
+Standards
+SASB
+Occupational Illness Frequency Rate 
+(Cases/1,000,000 Hours Worked)
+    • Employee(2)
+    • Contractor
+0.000
+NA
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+Number of Fatality Occupational Illness & Disease (Cases)
+    • Employee(2)
+    • Contractor
+0
+NA
+0
+0
+0
+0
+0 
+0
+0 
+0
+GRI 403-10
+Number of Reported Cases of Silicosis (Cases)
+    • Employee(2)
+    • Contractor
+0
+NA
+0
+0
+0
+0
+0
+0
+0
+0
+EM-CM-320a.2
+Near Miss Frequency Rate (Employee & Contractor) 
+(Cases/1,000,000 Hours Worked)
+NA
+17.524
+20.213
+58.044
+32.285
+EM-CM-320a.1
+Process Safety Incident Count (PSIC)(3) (Cases)
+NA
+0
+0
+0
+0
+RT-CH-540a.1

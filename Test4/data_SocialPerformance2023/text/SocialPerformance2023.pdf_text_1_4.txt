@@ -1,0 +1,10 @@
+(3) Only SCGC (Chemicals Business)
+	
+Employee : A full time employee according to an employment contract such as operational level, supervisory and technical staff level, 
+	
+	 and managerial level including Intern (probationary) and special contracted employee.
+Workplace Contractor : A contractor that works for the organization, and whose work and/or workplace is controlled by the organization 
+	
+	 (exclude transportation contractor).
+Direct Transportation Contractor : Transportation contractor with operation under SCG’s brand.
+Other Transportation Contractor : Other transportation contractor without operation under SCG’s brand.

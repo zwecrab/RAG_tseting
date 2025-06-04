@@ -1,0 +1,38 @@
+GRI Performance Data 2019 | 2020 | 2021(1) | 2022 | 2023 | SASBStandards | Unnamed: 0
+-------------------------------------------------------------------------------------
+Occupational Illness Frequency Rate |  |  |  |  |  | 
+(Cases/1,000,000 Hours Worked) |  |  |  |  |  | 
+• Employee(2) 0.000 | 0.000 | 0.000 | 0.000 | 0.000 |  | 
+• Contractor NA | 0.000 | 0.000 | 0.000 | 0.000 |  | 
+Number of Fatality Occupational Illness & Disease (Cases) |  |  |  |  |  | 
+• Employee(2) 0 | 0 | 0 | 0 | 0 | GRI 403-10 | 
+• Contractor NA | 0 | 0 | 0 | 0 |  | 
+Number of Reported Cases of Silicosis (Cases) |  |  |  |  |  | 
+• Employee(2) 0 | 0 | 0 | 0 | 0 |  | EM-CM-320a.2
+• Contractor NA | 0 | 0 | 0 | 0 |  | 
+Near Miss Frequency Rate (Employee & Contractor) |  |  |  |  |  | EM-CM-320a.1
+NA | 17.524 | 20.213 | 58.044 | 32.285 |  | 
+(Cases/1,000,000 Hours Worked) |  |  |  |  |  | 
+Process Safety Incident Count (PSIC)(3) (Cases) NA | 0 | 0 | 0 | 0 |  | RT-CH-540a.1
+Process Safety Total Incident Rate (PSTIR)(3) |  |  |  |  |  | RT-CH-540a.1
+NA | 0 | 0 | 0 | 0 |  | 
+(Cases/1,000,000 Hours Worked) |  |  |  |  |  | 
+Process Safety Incident Severity Rate (PSISR)(3) |  |  |  |  |  | RT-CH-540a.1
+NA | 0 | 0 | 0 | 0 |  | 
+(Cases/1,000,000 Hours Worked) |  |  |  |  |  | 
+From Travelling and Transportation |  |  |  |  |  | 
+Number of Fatality Work-Related Injury(2) (Cases) |  |  |  |  |  | 
+• Employee (Male : Female) 0 : 0 | 0 : 0 | 0 : 0 | 1 : 0 | 0 : 0 |  | 
+ |  |  |  |  | GRI 403-9 | 
+• Direct Transportation Contractor (Male : Female) 0 : 0 | 1 : 0 | 0 : 0 | 2 : 0 | 0 : 0 |  | 
+• Other Transportation Contractor (Male : Female) 4 : 0 | 2 : 0 | 0 : 0 | 0 : 0 | 1 : 0 |  | 
+From Workplace, Travelling and Transportation NA | 33 | 24 | 16 | 12 |  | RT-CH-540a.2
+Number of Transport Incident (Cases) 18,224 | 8,989 | 8,969 | 17,243 | 15,355 |  | 
+From Workplace, Travelling and Transportation |  |  |  |  |  | 
+Number of Fatality Work-Related Injury(2) (Cases) |  |  |  |  |  | 
+• Employee (Male : Female) 0 : 0 | 0 : 0 | 1 : 1 | 1 : 0 | 1 : 0 | GRI 403-9 | 
+• Contractor (Male : Female) 1 : 1 | 4 : 1 | 8 : 0 | 4 : 0 | 6 : 0 |  | 
+Others |  |  |  |  |  | 
+Product that have under gone a Hazard Assessment(3) (%) NA | 100 | 100 | 100 | 100 |  | RT-CH-410b.1
+Revenue from Products that contain Globally Harmonized |  |  |  |  |  | RT-CH-410b.1
+System of Classification and Labeling of Chemicals  NA | 100 | 100 | 100 | 100 |  | 

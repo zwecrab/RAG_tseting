@@ -1,0 +1,35 @@
+• Contractor (Male : Female) 
+0 : 0
+1 : 1
+0 : 0
+4 : 1
+ 1 : 1 
+ 8 : 0
+1 : 0
+4 : 0
+1 : 0
+6 : 0
+GRI 403-9
+Others
+Product that have under gone a Hazard Assessment(3) (%)
+NA
+100
+100
+100
+100
+RT-CH-410b.1
+Revenue from Products that contain Globally Harmonized 
+System of Classification and Labeling of Chemicals  
+(GHS)(3) (%)
+NA
+100
+100
+100
+100
+RT-CH-410b.1
+Health and Safety
+(1) 1st year to incorporate performance from abroad operations	
+(2) Within SGS’s limited assurance scope (Page 140-141)
+(3) Only SCGC (Chemicals Business)
+	
+Employee : A full time employee according to an employment contract such as operational level, supervisory and technical staff level,

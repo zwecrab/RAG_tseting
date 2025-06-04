@@ -1,0 +1,45 @@
+Near Miss Frequency Rate (Employee & Contractor) 
+(Cases/1,000,000 Hours Worked)
+NA
+17.524
+20.213
+58.044
+32.285
+EM-CM-320a.1
+Process Safety Incident Count (PSIC)(3) (Cases)
+NA
+0
+0
+0
+0
+RT-CH-540a.1
+Process Safety Total Incident Rate (PSTIR)(3) 
+(Cases/1,000,000 Hours Worked)
+NA
+0
+0
+0
+0
+RT-CH-540a.1
+Process Safety Incident Severity Rate (PSISR)(3) 
+(Cases/1,000,000 Hours Worked)
+NA
+0
+0
+0
+0
+RT-CH-540a.1
+  	 From Travelling and Transportation 
+Number of Fatality Work-Related Injury(2) (Cases)
+    • Employee (Male : Female)
+    • Direct Transportation Contractor (Male : Female) 
+    • Other Transportation Contractor (Male : Female)
+0 : 0
+0 : 0
+4 : 0
+0 : 0
+1 : 0
+2 : 0
+  0 : 0 
+  0 : 0 
+  0 : 0

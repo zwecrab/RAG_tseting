@@ -1,0 +1,49 @@
+GRI Performance Data 2019 | 2020 | 2021(1) | 2022 | 2023 | SASBStandards | Unnamed: 0
+-------------------------------------------------------------------------------------
+From Workplace |  |  |  |  |  | 
+Hours Worked(2) (Million Hours Worked) |  |  |  |  |  | 
+• Employee 79.55 | 79.72 | 118.31 | 117.17 | 112.29 |  | 
+• Contractor 110.95 | 124.97 | 140.43 | 134.29 | 134.42 |  | 
+Total Recordable Work-Related Injury and Occupational |  |  |  |  |  | EM-CM-320a.1
+Illness & Disease Rate (Cases/1,000,000 Hours Worked) |  |  |  |  |  | RT-CH-320a.1
+• Employee(2) 0.880 | 0.840 | 0.947 | 0.785 | 0.891 |  | 
+• Contractor 0.793 | 0.608 | 0.869 | 0.923 | 0.766 |  | 
+Fatality Work-Related Injury and Occupational Illness & |  |  |  |  |  | 
+Disease Rate (Cases/1,000,000 Hours Worked) |  |  |  |  |  | 
+ |  |  |  |  |  | RT-CH-320a.1
+• Employee(2) 0.000 | 0.000 | 0.017 | 0.000 | 0.009 |  | 
+• Contractor 0.018 | 0.032 | 0.057 | 0.015 | 0.045 |  | 
+Total Number of Recordable Work-Related Injury(2) |  |  |  |  |  | 
+(Cases) |  |  |  |  |  | 
+• Employee 70 | 67 | 112 | 92 | 100 | GRI 403-9 | 
+• Contractor 88 | 76 | 122 | 124 | 103 |  | 
+Total Recordable Work-Related Injury Rate(2) |  |  |  |  |  | 
+(Cases/1,000,000 Hours Worked) |  |  |  |  |  | 
+• Employee 0.880 | 0.840 | 0.947 | 0.785 | 0.891 | GRI 403-9 | 
+• Contractor 0.793 | 0.608 | 0.869 | 0.923 | 0.766 |  | 
+Number of Fatality Work-Related Injury(2) (Cases) |  |  |  |  |  | 
+• Employee (Male : Female) 0 : 0 | 0 : 0 | 1 : 1 | 0 : 0 | 1 : 0 | GRI 403-9 | 
+• Contractor (Male : Female) 1 : 1 | 3 : 1 | 8 : 0 | 2 : 0 | 6 : 0 |  | 
+Fatality Work-Related Injury Rate(2) (Cases/1,000,000 Hours |  |  |  |  |  | 
+Worked) |  |  |  |  |  | 
+• Employee 0.000 | 0.000 | 0.017 | 0.000 | 0.009 | GRI 403-9 | 
+• Contractor 0.018 | 0.032 | 0.057 | 0.015 | 0.045 |  | 
+Number of High-Consequence Work-Related Injury(2) (Cases) |  |  |  |  |  | 
+• Employee NA | 0 | 2 | 1 | 2 | GRI 403-9 | 
+• Contractor NA | 4 | 7 | 7 | 3 |  | 
+High-Consequence Work-Related Injury Rate(2) |  |  |  |  |  | 
+(Cases/1,000,000 Hours Worked) |  |  |  |  |  | 
+• Employee NA | 0.000 | 0.017 | 0.009 | 0.018 | GRI 403-9 | 
+• Contractor NA | 0.032 | 0.050 | 0.052 | 0.022 |  | 
+Lost Time Injury Frequency Rate(2) |  |  |  |  |  | 
+(Cases/1,000,000 Hours Worked) |  |  |  |  |  | 
+• Employee 0.239 | 0.113 | 0.389 | 0.137 | 0.276 |  | 
+• Contractor 0.279 | 0.216 | 0.249 | 0.276 | 0.231 |  | 
+Severity Work-Related Injury Rate |  |  |  |  |  | 
+(Days/1,000,000 Hours Worked) |  |  |  |  |  | 
+• Employee 4.890 | 2.960 | 6.246 | 2.330 | 6.047 |  | 
+• Contractor 5.714 | 5.609 | 8.780 | 10.849 | 5.386 |  | 
+Total Number of Recordable Occupational Illness |  |  |  |  |  | 
+& Disease (Cases) |  |  |  |  |  | 
+• Employee(2) 0 | 0 | 0 | 0 | 0 | GRI 403-10 | 
+• Contractor NA | 0 | 0 | 0 | 0 |  | 

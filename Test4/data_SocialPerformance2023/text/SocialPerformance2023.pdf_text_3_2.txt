@@ -1,0 +1,36 @@
+GRI 405-2
+	 •	Ratio of average salary (base salary only) of female 
+	 	 to male (Executive Level)(7)
+1.015
+0.973
+1.086
+1.017 
+0.988
+	 •	Ratio of average total remuneration (base salary + other  
+	 	 cash incentives) of female to male (Executive Level)(7)
+NA
+0.973
+1.133
+1.098 
+1.169
+	 •	Ratio of average salary (base salary only) of female  
+	 	 to male (Management Level)(7)
+0.921
+0.924
+0.995
+0.938 
+1.015
+  	 •	Ratio of average total remuneration (base salary + other  
+	 	 cash incentives) of female to male (Management Level)(7)
+0.921
+0.924
+1.004
+0.929 
+1.000
+  	 •	Ratio of average salary (base salary only) of female to male  
+	 	 (Non-management Level)(7)
+1.124
+1.130
+1.138
+1.108 
+1.130

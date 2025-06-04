@@ -1,0 +1,70 @@
+• Employee 
+    • Contractor
+NA
+NA
+0
+4
+2 
+7
+1
+7
+2
+3
+GRI 403-9
+High-Consequence Work-Related Injury Rate(2) 
+(Cases/1,000,000 Hours Worked) 
+    • Employee 
+    • Contractor
+NA
+NA
+0.000
+0.032
+0.017 
+ 0.050 
+0.009
+0.052
+0.018
+0.022
+GRI 403-9
+Lost Time Injury Frequency Rate(2) 
+(Cases/1,000,000 Hours Worked)
+    • Employee 
+    • Contractor
+0.239 
+0.279
+0.113
+0.216
+0.389 
+0.249
+0.137
+0.276
+0.276
+0.231
+Severity Work-Related Injury Rate 
+(Days/1,000,000 Hours Worked)
+    • Employee 
+    • Contractor
+4.890 
+5.714
+2.960
+5.609
+6.246 
+8.780
+2.330
+10.849
+6.047
+5.386
+Total Number of Recordable Occupational Illness 
+& Disease (Cases)
+    • Employee(2)
+    • Contractor
+0
+NA
+0
+0
+0
+0
+0
+0
+0
+0

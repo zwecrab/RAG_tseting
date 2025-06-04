@@ -1,0 +1,60 @@
+• Employee	
+ 
+    • Contractor
+0.880 
+0.793
+0.840
+0.608
+0.947 
+0.869
+0.785
+0.923
+0.891
+0.766
+GRI 403-9
+Number of Fatality Work-Related Injury(2) (Cases) 
+    • Employee (Male : Female)	
+    • Contractor (Male : Female) 
+0 : 0
+1 : 1
+0 : 0
+3 : 1
+ 1 : 1 
+ 8 : 0
+0 : 0
+2 : 0
+1 : 0
+6 : 0
+GRI 403-9
+Fatality Work-Related Injury Rate(2) (Cases/1,000,000 Hours 
+Worked) 
+    • Employee 
+    • Contractor
+0.000
+0.018
+0.000
+0.032
+0.017 
+0.057
+0.000
+0.015
+0.009
+0.045
+GRI 403-9
+Number of High-Consequence Work-Related Injury(2) (Cases) 
+    • Employee 
+    • Contractor
+NA
+NA
+0
+4
+2 
+7
+1
+7
+2
+3
+GRI 403-9
+High-Consequence Work-Related Injury Rate(2) 
+(Cases/1,000,000 Hours Worked) 
+    • Employee

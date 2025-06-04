@@ -1,0 +1,63 @@
+64 : 72 
+74 : 69 
+64 : 67 : 77
+69 : 74
+69 
+59 : 72 
+68 : 69 
+68 : 66 : 75 
+66 : 77
+69* 
+61 : 72* 
+65 : 69* 
+69 : 68 : 72*
+64 : 81*
+Employee satisfaction level (%) 
+	 •	by Gender (Female : Male) (%) 
+	 •	by Employee level (Management level : Other level) (%) 
+	 •	by Service year (under 5 yr / 5-20 yr / over 20 yr ) (%) 
+	 •	by Nationality (Thai : Others) (%)
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+NA
+65* 
+59 : 68*
+58 : 66*
+69 : 65 : 64*
+59 : 79*
+Average hours of training and development (Hours/Person)  
+	 •	Mandatory (Hours/Person) 
+	 • 	Non mandatory (Hours/Person)
+136
+NA
+NA
+124
+104
+20
+82
+42
+40
+155 
+112 
+43 
+129 
+110 
+19 
+GRI 404-1

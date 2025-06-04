@@ -1,0 +1,52 @@
+• Direct Transportation Contractor (Male : Female) 
+    • Other Transportation Contractor (Male : Female)
+0 : 0
+0 : 0
+4 : 0
+0 : 0
+1 : 0
+2 : 0
+  0 : 0 
+  0 : 0 
+  0 : 0 
+1 : 0 
+2 : 0 
+0 : 0 
+0 : 0
+0 : 0 
+1 : 0
+GRI 403-9
+  	 From Workplace, Travelling and Transportation 
+NA
+33
+ 24 
+ 16 
+ 12 
+RT-CH-540a.2
+Number of Transport Incident (Cases)
+18,224
+8,989
+ 8,969 
+17,243 
+15,355
+  	 From Workplace, Travelling and Transportation 
+Number of Fatality Work-Related Injury(2) (Cases) 
+    • Employee (Male : Female) 
+    • Contractor (Male : Female) 
+0 : 0
+1 : 1
+0 : 0
+4 : 1
+ 1 : 1 
+ 8 : 0
+1 : 0
+4 : 0
+1 : 0
+6 : 0
+GRI 403-9
+Others
+Product that have under gone a Hazard Assessment(3) (%)
+NA
+100
+100
+100
