@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "question": "What was the total electricity consumption in kilowatt-hours for the year 2021?",
+    "expected_document": "preview_2024-10-22_13-59-18(eng_translated).pdf",
+    "expected_snippet": "768,357.70"
+  },
+  {
+    "id": 2,
+    "question": "How much did the company spend on electricity in the year 2565?",
+    "expected_document": "preview_2024-10-22_13-59-18(eng_translated).pdf",
+    "expected_snippet": "3,045,442.68"
+  },
+  {
+    "id": 3,
+    "question": "What was the consumption of diesel oil in liters for the year 2566?",
+    "expected_document": "preview_2024-10-22_13-59-18(eng_translated).pdf",
+    "expected_snippet": "400,406.66"
+  },
+  {
+    "id": 4,
+    "question": "What was the total volume of waste in kilograms for 2021?",
+    "expected_document": "preview_2024-10-22_13-59-18(eng_translated).pdf",
+    "expected_snippet": "67,808.00"
+  },
+  {
+    "id": 5,
+    "question": "How many total employees were there in the year 2566?",
+    "expected_document": "preview_2024-10-22_13-59-18(eng_translated).pdf",
+    "expected_snippet": "203"
+  },
+  {
+    "id": 6,
+    "question": "What were the costs for employee training and development in 2566?",
+    "expected_document": "preview_2024-10-22_13-59-18(eng_translated).pdf",
+    "expected_snippet": "153,000.00"
+  },
+  {
+    "id": 7,
+    "question": "How many work-related injuries or accidents occurred in 2021?",
+    "expected_document": "preview_2024-10-22_13-59-18(eng_translated).pdf",
+    "expected_snippet": "8.00"
+  },
+  {
+    "id": 8,
+    "question": "What was the total number of female employees in the year 2565?",
+    "expected_document": "preview_2024-10-22_13-59-18(eng_translated).pdf",
+    "expected_snippet": "71"
+  }
+]
