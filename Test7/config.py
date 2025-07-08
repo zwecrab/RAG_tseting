@@ -1,11 +1,3 @@
-# DB_CONFIG = {
-#     "host": "esg-report-db.postgres.database.azure.com",
-#     "port": "5432",
-#     "user": "chaky",
-#     "password": "Ch@ky123",
-#     "dbname": "esg-db3"
-# }
-
 DB_CONFIG = {
     "host": "localhost",
     "port": "5432",
